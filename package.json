@@ -1,0 +1,9 @@
+{
+  "name": "manuelstofer-extend",
+  "description": "Underscore's extend function packed as a component",
+  "version": "1.3.3",
+  "keywords": [],
+  "dependencies": {
+    "manuelstofer-foreach": "git://github.com/npmcomponent/manuelstofer-foreach.git"
+  }
+}
